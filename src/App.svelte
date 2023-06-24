@@ -15,6 +15,3 @@
     +
   </button>
 </div>
-
-<style>
-</style>

@@ -3,8 +3,6 @@
 # abort on errors
 set -e
 
-rm -rf .nuxt/*
-
 # build
 npm run build
 
